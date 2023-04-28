@@ -31,7 +31,7 @@ Buckets giveaway bot is a simple yet effective giveaway bot made for everyone!
 
 **Verified** = `False`
 
-**Active/Working** = `False`
+**Active/Working** = `True`
 
 # **Buckets Chat Bot**
 
